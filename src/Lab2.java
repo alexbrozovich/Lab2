@@ -1,4 +1,3 @@
-import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Lab2 {
@@ -49,7 +48,7 @@ public class Lab2 {
 				}
 			}
 		}
-
+	scan.close();
 	}
 
 }
